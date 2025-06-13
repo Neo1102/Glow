@@ -4,7 +4,7 @@
 "RemoveReelsCarousel" = "移除reels短影音輪播";
 "PostLikeConfirm" = "按讚確認";
 "DownloadVideos" = "下載影片";
-"DownloadVideosDesc" = "長按以下載限時動態或動態時報的影片";
+"DownloadVideosDesc" = "長按即可下載限時動態或動態時報的影片";
 
 "Reels" = "Reels短影音";
 "DownloadReels" = "下載短影音";
@@ -39,7 +39,7 @@
 "DownloadStory" = "下載限時動態";
 "Downloading" = "正在下載";
 "Cancel" = "取消";
-"SavedToPhotos" = "儲存到相簿";
+"SavedToPhotos" = "儲存到照片";
 "ImageNotFound" = "找不到照片";
 "MarkAsSeen" = "標記已讀";
 "MarkedAsSeen" = "已標記為已讀";
