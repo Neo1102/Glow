@@ -11,7 +11,7 @@
 "HideOverlay" = "隱藏懸浮按鈕";
 "ReelsLikeConfirm" = "短影音按讚確認";
 "ReelsLongTap" = "長按下載影片";
-"ReelsLongTapDesc" = "下載按鈕消失的可以降版";
+"ReelsLongTapDesc" = "針對無下載按鈕的舊版本，長按即可下載";
 
 "Stories" = "限時動態";
 "DownloadStories" = "下載限時動態";
