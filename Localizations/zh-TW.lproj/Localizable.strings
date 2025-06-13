@@ -20,7 +20,7 @@
 "RemoveStoryPYMK" = "移除 \"你可能認識的朋友\"";
 
 "Cache" = "快取";
-"AutoClearCache" = "啟動食清除快取";
+"AutoClearCache" = "啟動時清除快取";
 "ClearCache" = "清除快取";
 
 "Developer" = "開發者";
